@@ -1,5 +1,5 @@
-# England & Wales Property Transations BI Case
-A Power BI portfolio project analysing property transactions in England and Wales.
+# England & Wales Property Transactions 2024 BI Case
+A Power BI portfolio project analysing property transactions in England and Wales in 2024.
 
 ## Project files
 
