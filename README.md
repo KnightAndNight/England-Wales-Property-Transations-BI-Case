@@ -14,7 +14,7 @@ See the `Screenshots` folder for dashboard previews.
 ## Data
 
 The dataset is publicly available. 
-Data source: <a href="[HM Land Registry Price Paid Data – 2024 yearly file.](https://www.gov.uk/government/statistical-data-sets/price-paid-data-yearly-file)" target="_blank"></a>
+Data source: <a href="[HM Land Registry Price Paid Data – 2024 yearly file.](https://www.gov.uk/government/statistical-data-sets/price-paid-data-yearly-file)" target="_blank">HM Land Registry Price Paid Data – 2024 yearly file.</a>
 
 Contains HM Land Registry data © Crown copyright and database right 2021. This data is licensed under the Open Government Licence v3.0.
 
