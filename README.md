@@ -5,7 +5,7 @@ A Power BI portfolio project analysing property transactions in England and Wale
 
 - [Power BI report (.pbix)](<BI Report/BI Report.pbix>)
 - [Detailed written report](<BI Report/Report.docx>)
-- [Original dataset](<Original Data/pp-2024.xlsx>) *PS: I have to upload a zip file instead of the original csv file, otherwise it's too large to upload here.
+- [Original dataset](<Original Data/pp-2024.zip>) *PS: I have to upload a zip file instead of the original csv file, otherwise it's too large to upload here.
 
 ## Dashboard screenshots
 
